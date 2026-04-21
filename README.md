@@ -39,9 +39,9 @@ https://github.com/user-attachments/assets/46096bd9-1fde-4474-b297-0f4389dbe770
 - [使用Ubuntu22.04时，搜索结果和收藏夹无法加载封面图](https://github.com/lanyeeee/jmcomic-downloader/discussions/31)
 - [使用Ubuntu24.04时，窗口全白](https://github.com/lanyeeee/jmcomic-downloader/discussions/32)
 
-# 📚 哔咔漫画下载器  
+# 📚 哔咔漫画下载器
 
-[![Readme Card](https://github-readme-stats-lemon-chi-98.vercel.app/api/pin/?username=lanyeeee&repo=picacomic-downloader)](https://github.com/lanyeeee/picacomic-downloader)  
+[![picacomic-downloader](https://github-readme-stats-fast.vercel.app/api/pin/?username=lanyeeee&repo=picacomic-downloader)](https://github.com/lanyeeee/picacomic-downloader)
 
 # ⚠️ 关于被杀毒软件误判为病毒
 
@@ -85,7 +85,7 @@ pnpm tauri build
 
 # 🤝 提交PR
 
-**PR请提交至`develop`分支**
+**PR请基于`develop`分支开发，并提交至`develop`分支**
 
 **如果想新加一个功能，请先开个`issue`或`discussion`讨论一下，避免无效工作**
 
@@ -105,4 +105,4 @@ pnpm tauri build
 
 # 💬 其他
 
-任何使用中遇到的问题、任何希望添加的功能，都欢迎提交issue或开discussion交流，我会尽力解决  
+任何使用中遇到的问题、任何希望添加的功能，都欢迎提交issue或开discussion交流，我会尽力解决
